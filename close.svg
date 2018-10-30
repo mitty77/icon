@@ -1,3 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-    <path fill="#354052" fill-rule="evenodd" d="M-4-4h24v24H-4z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,10.9333333 L18.9333333,4 L20,5.06666667 L13.0666667,12 L20,18.9333333 L18.9333333,20 L12,13.0666667 L5.06666667,20 L4,18.9333333 L10.9333333,12 L4,5.06666667 L5.06666667,4 L12,10.9333333 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/Close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path stroke="#979797" stroke-width="1.50849447" d="M16,8 L19.4666667,4.53333333 L18.4,4.53333333 L19.4666667,5.6 L19.4666667,4.53333333 L16,8 Z M12.2666667,11.7333333 L12,12 L12.2666667,12.2666667 L12,12 L8,16 L12,12 L4.53333333,4.53333333 L4.53333333,5.6 L5.6,4.53333333 L4.53333333,4.53333333 L12,12 L12.2666667,11.7333333 Z M16,16 L19.4666667,19.4666667 L19.4666667,18.4 L18.4,19.4666667 L19.4666667,19.4666667 L16,16 Z M8,16 L4.53333333,19.4666667 L5.6,19.4666667 L4.53333333,18.4 L4.53333333,19.4666667 L8,16 Z"></path>
+        <g id="Mixin/Fill/Black" mask="url(#mask-2)" fill="#354052">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
 </svg>
